@@ -1,0 +1,1 @@
+This directory includes any external images we used.
