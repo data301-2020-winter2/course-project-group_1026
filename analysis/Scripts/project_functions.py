@@ -1,11 +1,11 @@
 import pandas as pd
 import numpy as np
 
-def load_and_process(data/processed/acs2017_county_data.csv):
+def load_and_process("data/processed/acs2017_county_data.csv"):
     
 
     df1 = (
-        pd.read_csv(data/processed/acs2017_county_data.csv)
+        pd.read_csv("data/processed/acs2017_county_data.csv")
         .dropna()
         .drop(['VotingAgeCitizen','Office','Drive','Carpool','Transit','Walk','Service','Construction'], axis ="columns")
     )
