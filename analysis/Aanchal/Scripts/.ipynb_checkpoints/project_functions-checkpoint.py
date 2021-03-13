@@ -17,7 +17,7 @@ def load_and_process(url):
         .drop(['index'], axis=1)
     )
 
-    return df1
+    return df2
 
 
 
