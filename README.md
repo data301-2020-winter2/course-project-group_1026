@@ -18,9 +18,9 @@ For this project, we've chosen the US Census dataset from 2017. The data here ar
 
 ## Team Members
 
-- Ahad Hashemi: I am new to computer science and I hope to learn a lot about how to use and manipulate data
-- Aanchal Kuckian: I am a third year Data science major and I love working and analysing data. I am really excited to do this project.
-- Person 3: one sentence about you!
+- **Ahad Hashemi**: > I am new to computer science and I hope to learn a lot about how to use and manipulate data <
+- **Aanchal Kuckian**: > I am a third year Data science major and I love working and analysing data. I am really excited to do this project. <
+
 
 ## References
 
