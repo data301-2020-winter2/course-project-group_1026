@@ -24,5 +24,5 @@ For this project, we've chosen the US Census dataset from 2017. The data here ar
 
 ## References
 
-##Data URL
+## Data URL
 https://www.kaggle.com/muonneutrino/us-census-demographic-data 
