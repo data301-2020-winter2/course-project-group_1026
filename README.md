@@ -28,3 +28,7 @@ For this project, we've chosen the US Census dataset from 2017. The data here ar
 https://www.kaggle.com/muonneutrino/us-census-demographic-data
 https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494
 https://www.forbes.com/sites/davidrae/2019/04/03/states-with-no-income-taxes/?sh=2fe0adb31b1c
+
+
+## LINK TO ONLINE DASHBOARD - LAB 7 (Done by Aanchal Kuckian)
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346854?:origin=card_share_link
