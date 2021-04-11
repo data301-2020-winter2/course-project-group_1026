@@ -32,3 +32,6 @@ https://www.forbes.com/sites/davidrae/2019/04/03/states-with-no-income-taxes/?sh
 
 ## LINK TO ONLINE DASHBOARD - LAB 7 (Done by Aanchal Kuckian)
 https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346854?:origin=card_share_link
+
+## LINK TO ONLINE DASHBOARD - LAB 7(Done by Ahad Hashemi)
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346875?:origin=card_share_link
