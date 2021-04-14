@@ -35,3 +35,6 @@ https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346854?:origin=ca
 
 ## LINK TO ONLINE DASHBOARD - LAB 7(Done by Ahad Hashemi)
 https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346875?:origin=card_share_link
+
+## LINK TO OUR PRESENTATION:
+https://www.dropbox.com/s/gqvglolngcptlxs/Group_1026_FinalVideo.mp4?dl=0
